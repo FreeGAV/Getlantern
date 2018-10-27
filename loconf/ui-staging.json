@@ -1,0 +1,79 @@
+{
+  "announcement": {
+    "default": "en-US",
+    "en-US": {
+      "campaign": "20160801-new-feature",
+      "pro": true,
+      "free": true,
+      "expiry": "",
+      "title": "Try out the new feature",
+      "message": "Believe or not, you'll definitely love it!",
+      "url": "https://www.getlantern.org"
+    }
+  },
+  "uninstall-survey": {
+    "en-US": {
+      "enabled": true,
+      "probability": 1.00,
+      "campaign": "20170227",
+      "pro": true, 
+      "free": true, 
+      "url": "https://www.surveymonkey.com/r/JGZ9CD7"
+    },
+    "zh-CN": {
+      "enabled": true,
+      "probability": 1.00,
+      "campaign": "CN20170405",
+      "pro": true, 
+      "free": true, 
+      "url": " https://www.surveymonkey.com/r/W6CZYJW"
+    }
+  },
+  "survey": {
+    "US": {
+      "enabled": false,
+      "probability": 0,
+      "campaign": "20160801",
+      "url": "https://getlantern.org",
+      "message": "Help make Lantern better, take this one question survey now!",
+      "thanks": "Thanks for taking our survey!",
+      "button": "Take survey"
+    },
+    "en-US": {
+      "enabled": true,
+      "probability": 1,
+      "campaign": "20160801",
+      "url": "",
+      "message": "Help make Lantern better, take this one question survey now!",
+      "thanks": "Thanks for taking our survey!",
+      "button": "Take survey"
+    },
+    "zh-CN": {
+      "enabled": true,
+      "probability": 1,
+      "campaign": "20160801",
+      "url": "",
+      "message": "Help make Lantern better, take this one question survey now (ZH)!",
+      "thanks": "Thanks for taking our survey (ZH)!",
+      "button": "Take survey (ZH)"
+    },
+    "IN": {
+      "enabled": true,
+      "probability": 1,
+      "campaign": "20160801",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNt-0LJAjw7Ib1a70JYrCc52jXTRZDvfvbWugxsaK8ioH3KQ/viewform",
+      "message": "Help make Lantern better, take this one question survey now!",
+      "thanks": "Thanks for taking our survey!",
+      "button": "Take survey"
+    },
+    "fa-IR": {
+      "enabled": false,
+      "probability": 0,
+      "campaign": "20160801",
+      "url": "",
+      "message": "Help make Lantern better, take this one question survey now (FA)!",
+      "thanks": "Thanks for taking our survey (FA)!",
+      "button": "Take survey (FA)"
+    }
+  }
+}
