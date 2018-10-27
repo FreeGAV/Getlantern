@@ -63,6 +63,12 @@
          "link_text": "加入QQ群",
          "url": ""
       },
+      "JP":{
+         "enabled": true,
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
+      },
       "US":{
          "enabled": false,
          "text": "Crack By Egg",
