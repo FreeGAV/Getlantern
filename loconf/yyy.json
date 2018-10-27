@@ -33,7 +33,7 @@
       }, 
       "US":{
          "enabled": true,
-         "text": "Crack By Egg & 清羽TG群部专用",
+         "text": "Crack By Egg & 清羽TG群内部使用",
          "link_text": "",
          "url": ""
       },
@@ -71,7 +71,7 @@
       },
       "zh_CN":{
          "enabled": false,
-         "text": "Crack By Egg & 清羽TG群内部使用,
+         "text": "Crack By Egg & 清羽TG群内部使用",
          "link_text": "",
          "url": ""
       },
@@ -83,7 +83,7 @@
       },
       "CN":{
          "enabled": false,
-         "text": "Crack By Egg & 清羽TG群部内部使用",
+         "text": "Crack By Egg & 清羽TG群内部使用",
          "link_text": "",
          "url": ""
       },
