@@ -1,115 +1,171 @@
-﻿{
+{
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": false,
-         "text": "Crack By Egg & YYY@清羽 & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "enabled": true,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "zh_CN":{
          "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "zh":{
          "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "CN":{
          "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "JP":{
          "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       }, 
       "US":{
-         "enabled": false,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "enabled": true,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       }
    },
    "desktopBannerAds":{
       "en_US":{
          "enabled": false,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "en-US":{
          "enabled": false,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "zh_CN":{
-         "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "enabled": false,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "zh":{
-         "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "enabled": false,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "CN":{
-         "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "enabled": false,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "JP":{
-         "enabled": true,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "enabled": false,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       },
       "US":{
          "enabled": false,
-         "text": "Crack By Egg & YYY@清羽",
-         "link_text": "加入清羽-TG群",
-         "url": "https://t.me/gotomsg?chat=1386611031"
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
       }
    },
    "popUpAds":{
      "en-US":{
         "enabled":false,
-        "url": "",
-        "button_url":"",
+        "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
         "content.desktop.button.free": "Buy Lantern Pro Get Yinbi",
         "content.desktop.button.pro": "Renew Now Get Yinbi",
-        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
-        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
+        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n
+
+\nWhat is Yinbi?",
+        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s 
+
+giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for 
+
+fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to 
+
+have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" 
+
+target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
+        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat 
+
+is Yinbi?",
+        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n
+
+\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, 
+
+easy to use, and low-cost mobile transactions. Lantern users are the first to have early access 
+
+to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=
+
+\"https://yin.bi\">Yin.bi</a>"
      },
      "en_US":{
         "enabled":false,
-        "url": "",
-        "button_url":"",
+        "url": "https://yin.bi",
+        "button_url":"https://yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
         "content.desktop.button.free": "Buy Lantern Pro Get Yinbi",
         "content.desktop.button.pro": "Renew Now Get Yinbi",
-        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
-        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
+        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n
+
+\nWhat is Yinbi?",
+        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s 
+
+giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for 
+
+fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to 
+
+have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" 
+
+target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
+        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat 
+
+is Yinbi?",
+        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n
+
+\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, 
+
+easy to use, and low-cost mobile transactions. Lantern users are the first to have early access 
+
+to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=
+
+\"https://yin.bi\">Yin.bi</a>",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -122,38 +178,108 @@
         "content.mobile.renew.button": "Renew Now Get Yinbi",
         "content.mobile.buy.lantern.pro.button": "Buy Lantern Pro Get Yinbi",
         "content.mobile.renewal.button.url": "",
-        "content.mobile.main_screen.free": "Lantern has partnered with Yinbi (YNB)\nto give away free YNB to Lantern users.\nGrab Free Yinbi on 11/8 00:01 in Lantern!\n",
-        "content.mobile.secondary_screen.free": "Yinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!",
-        "content.mobile.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.mobile.secondary_screen.pro": "Yinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!"
+        "content.mobile.main_screen.free": "Lantern has partnered with Yinbi (YNB)\nto give away 
+
+free YNB to Lantern users.\nGrab Free Yinbi on 11/8 00:01 in Lantern!\n",
+        "content.mobile.secondary_screen.free": "Yinbi (YNB) is a new unblockable cryptocurrency 
+
+launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. 
+
+Lantern users are the first to have early access to this new cryptocurrency!",
+        "content.mobile.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to 
+
+everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is 
+
+Yinbi?",
+        "content.mobile.secondary_screen.pro": "Yinbi (YNB) is a new unblockable cryptocurrency 
+
+launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. 
+
+Lantern users are the first to have early access to this new cryptocurrency!"
      },
      "zh_CN":{
         "enabled":false,
-        "url": "",
-        "button_url":"",
+        "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
         "content.desktop.button.free": "Buy Lantern Pro Get Yinbi",
         "content.desktop.button.pro": "Renew Now Get Yinbi",
-        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
-        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
+        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n
+
+\nWhat is Yinbi?",
+        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s 
+
+giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for 
+
+fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to 
+
+have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" 
+
+target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
+        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat 
+
+is Yinbi?",
+        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n
+
+\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, 
+
+easy to use, and low-cost mobile transactions. Lantern users are the first to have early access 
+
+to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=
+
+\"https://yin.bi\">Yin.bi</a>"
      },
      "zh":{
         "enabled":false,
-        "url": "",
-        "button_url":"",
+        "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
         "content.desktop.button.free": "Buy Lantern Pro Get Yinbi",
         "content.desktop.button.pro": "Renew Now Get Yinbi",
-        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
-        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
+        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n
+
+\nWhat is Yinbi?",
+        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s 
+
+giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for 
+
+fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to 
+
+have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" 
+
+target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
+        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give 
+
+YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat 
+
+is Yinbi?",
+        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to 
+
+give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n
+
+\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, 
+
+easy to use, and low-cost mobile transactions. Lantern users are the first to have early access 
+
+to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=
+
+\"https://yin.bi\">Yin.bi</a>"
      }
    },
    "homescreen": {
@@ -163,24 +289,32 @@
          "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
          "purchase.button_text": "Upgrade Now",
          "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free 
+
+Yinbi",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        },
        "en_US": {
          "purchase.title": "Lantern Pro",
          "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
          "purchase.button_text": "Upgrade Now",
          "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free 
+
+Yinbi",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        },
        "zh_CN": {
          "purchase.title": "蓝灯专业版",
@@ -192,7 +326,9 @@
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        },
        "zh": {
          "purchase.title": "蓝灯专业版",
@@ -204,7 +340,9 @@
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        }
      },
      "mobile": {
@@ -213,48 +351,64 @@
          "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
          "purchase.button_text": "Upgrade Now",
          "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free 
+
+Yinbi",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        },
        "en_US": {
          "purchase.title": "Lantern Pro",
          "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
          "purchase.button_text": "Upgrade Now",
          "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free 
+
+Yinbi",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        },
        "zh_CN": {
          "purchase.title": "Lantern Pro",
          "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
          "purchase.button_text": "Upgrade Now",
          "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free 
+
+Yinbi",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        },
        "zh": {
          "purchase.title": "Lantern Pro",
          "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
          "purchase.button_text": "Upgrade Now",
          "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free 
+
+Yinbi",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
          "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free 
+
+Yinbi"
        }
      }
    },
@@ -281,7 +435,7 @@
          "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"",
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":"با تشکر",
          "button":"تماشا کنید"
@@ -291,7 +445,7 @@
          "userType": "free",
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"",
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":"با تشکر",
          "button":"تماشا کنید"
@@ -308,26 +462,26 @@
          "button":""
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
-         "campaign":"20180822",
-         "url":"https://t.me/gotomsg?chat=1386611031",
-         "message":"Crack By Egg & YYY@清羽",
+         "campaign":"20181027",
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
          "thanks":"",
-         "button":"加入清羽-TG群"
+         "button":""
       },
       "JP":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
-         "campaign":"20180822",
-         "url":"https://t.me/gotomsg?chat=1386611031",
-         "message":"Crack By Egg & YYY@清羽",
+         "campaign":"20181027",
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
          "thanks":"",
-         "button":"加入清羽-TG群"
+         "button":""
       },
       "en_IN":{
          "enabled":false,
@@ -342,7 +496,7 @@
          "enabled":false,
          "probability":0.00,
          "campaign":"201700305",
-         "url":"",
+         "url":"https://www.surveymonkey.com/r/JGZ9CD7",
          "message":"Lantern is hiring an engineer in India! For more info, and to apply",
          "thanks":"Thanks for your application!",
          "button":"Click Here"
