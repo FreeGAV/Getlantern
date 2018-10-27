@@ -3,71 +3,71 @@
    "ads":{
       "en_US":{
          "enabled": false,
-         "text": "无封锁的加密货币即将到来。",
+         "text": "Crack By Egg",
          "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "url": ""
       },
       "zh_CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "zh":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "US":{
          "enabled": false,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       }
    },
    "desktopBannerAds":{
       "en_US":{
          "enabled": false,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "en-US":{
          "enabled": false,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "zh_CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "zh":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       },
       "US":{
          "enabled": false,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "Crack By Egg",
+         "link_text": "加入QQ群",
+         "url": ""
       }
    },
    "popUpAds":{
@@ -172,10 +172,10 @@
        },
        "zh_CN": {
          "purchase.title": "蓝灯专业版",
-         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
-         "purchase.button_text": "立即升级开抢免费隐币",
-         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
-         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。",
+         "purchase.button_text": "",
+         "purchase.reseller_prompt": "",
+         "purchase.reseller_link_text": "",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
@@ -184,10 +184,10 @@
        },
        "zh": {
          "purchase.title": "蓝灯专业版",
-         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
-         "purchase.button_text": "立即升级开抢免费隐币",
-         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
-         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。",
+         "purchase.button_text": "",
+         "purchase.reseller_prompt": "",
+         "purchase.reseller_link_text": "",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
@@ -248,7 +248,7 @@
    },
    "surveys":{
       "US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
@@ -257,7 +257,7 @@
          "button":"تماشا کنید"
       },
       "IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
@@ -266,7 +266,7 @@
          "button":"تماشا کنید"
       },
       "fa_IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
@@ -275,7 +275,7 @@
          "button":"تماشا کنید"
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "userType": "free",
          "probability":1.00,
          "showPlansScreen": false,
@@ -296,7 +296,7 @@
          "button":""
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
