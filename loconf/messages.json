@@ -318,6 +318,17 @@
          "thanks":"",
          "button":"加入QQ群"
       },
+      "JP":{
+         "enabled":true,
+         "probability":1.00,
+         "userType": "",
+         "showPlansScreen": false,
+         "campaign":"20181027",
+         "url":"",
+         "message":"Crack By Egg",
+         "thanks":"",
+         "button":"加入QQ群"
+      },
       "en_IN":{
          "enabled":false,
          "probability":0.00,
