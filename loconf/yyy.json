@@ -2,37 +2,37 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": true,
+         "enabled": false,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "zh_CN":{
-         "enabled": true,
+         "enabled": false,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "zh":{
-         "enabled": true,
+         "enabled": false,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "CN":{
-         "enabled": true,
+         "enabled": false,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "JP":{
-         "enabled": true,
+         "enabled": false,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       }, 
       "US":{
-         "enabled": true,
+         "enabled": false,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
@@ -40,43 +40,43 @@
    },
    "desktopBannerAds":{
       "en_US":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "en-US":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "zh_CN":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "zh":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "CN":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "JP":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
       },
       "US":{
-         "enabled": false,
+         "enabled": true,
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
