@@ -36,7 +36,19 @@
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
-      }
+      },
+      "NL":{
+         "enabled": false,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
+      } ,
+      "HK":{
+         "enabled": false,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
+      }       
    },
    "desktopBannerAds":{
       "en_US":{
@@ -80,7 +92,19 @@
          "text": "Crack By Egg & 清羽TG群部专用",
          "link_text": "",
          "url": ""
-      }
+      },
+      "NL":{
+         "enabled": true,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
+      } ,
+      "HK":{
+         "enabled": true,
+         "text": "Crack By Egg & 清羽TG群部专用",
+         "link_text": "",
+         "url": ""
+      }       
    },
    "popUpAds":{
      "en-US":{
@@ -414,55 +438,55 @@ Yinbi"
    },
    "surveys":{
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
       },
       "IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
       },
       "fa_IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
       },
       "en_US":{
-         "enabled":false,
+         "enabled":true,
          "userType": "free",
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
       },
       "en-GB":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.00,
          "userType": "free",
          "showPlansScreen": false,
          "campaign":"20180822",
          "url":"",
-         "message":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
          "thanks":"",
          "button":""
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
@@ -473,7 +497,29 @@ Yinbi"
          "button":""
       },
       "JP":{
-         "enabled":false,
+         "enabled":true,
+         "probability":1.00,
+         "userType": "",
+         "showPlansScreen": false,
+         "campaign":"20181027",
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
+      },
+      "NL":{
+         "enabled":true,
+         "probability":1.00,
+         "userType": "",
+         "showPlansScreen": false,
+         "campaign":"20181027",
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
+      },
+      "HK":{
+         "enabled":true,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
@@ -487,19 +533,19 @@ Yinbi"
          "enabled":false,
          "probability":0.00,
          "campaign":"201700305",
-         "url":"https://www.surveymonkey.com/r/JGZ9CD7",
-         "message":"Lantern is hiring an engineer in India! For more info, and to apply",
-         "thanks":"Thanks for your application!",
-         "button":"Click Here"
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
       },
       "en":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.00,
          "campaign":"201700305",
-         "url":"https://www.surveymonkey.com/r/JGZ9CD7",
-         "message":"Lantern is hiring an engineer in India! For more info, and to apply",
-         "thanks":"Thanks for your application!",
-         "button":"Click Here"
+         "url":"",
+         "message":"Crack By Egg & 清羽TG群部专用",
+         "thanks":"",
+         "button":""
       }
    }
 }
